@@ -1,3 +1,4 @@
 1 + 1
 
-1 + "is the loneliest number"
+#should match the data type.
+1 + 1

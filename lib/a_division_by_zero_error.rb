@@ -1,3 +1,4 @@
 42 / 6
 
-42 / 0
+#should not be divioded by 0.
+42 / 6

@@ -1,3 +1,4 @@
 x = 1
 
-x = 
+#should not have a missing text/num.
+x = 1
